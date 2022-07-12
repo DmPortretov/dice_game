@@ -1,5 +1,5 @@
-var random1 = Math.floor(Math.random() * 5) + 1;
-var random2 = Math.floor(Math.random() * 5) + 1;
+var random1 = Math.floor(Math.random() * 6) + 1;
+var random2 = Math.floor(Math.random() * 6) + 1;
 
 var random1image = 'img/dice' + random1 + '.png';
 var random2image = 'img/dice' + random2 + '.png';
